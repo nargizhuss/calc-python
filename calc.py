@@ -34,6 +34,6 @@ elif what == "%":
     print("Your total is: " + str(c))
 
 else:
-   print( "Error has occured.." )
+   print( "Error has occurred" )
 
 input()
