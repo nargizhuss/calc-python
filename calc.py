@@ -19,7 +19,7 @@ elif what == "*":
 
 elif what == "/":
    c = a / b
-   print("Your total is: " + str(c))
+   print("Total: " + str(c))
 
 elif what == "//":
    c = a // b
